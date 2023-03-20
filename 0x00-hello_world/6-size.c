@@ -9,16 +9,14 @@
 int main(void)
 
 {
-	int intType;
-	float floatType;
-	double doubleType;
-	char charType;
 
-	sizeof(evaluates) the size of a variable
-	printf("Size of int: %d bytes\n", sizeof(intType));
-	printf("Size of float: %d bytes\n", sizeof(floatType));
-	printf("Size of double: %d bytes\n", sizeof(doubleType));
-	printf("Size of char: %d byte\n", sizeof(charType));
+
+	printf("Size of an int: %d byte(s)\n", sizeof(int));
+
+	printf("Size of a float: %d byte(s)\n", sizeof(float));
+	printf("Size of a long int: %d byte(s)\n", sizeof(long int));
+	printf("Size of a char: %d byte(s)\n", sizeof(char));
+	printf("Size of a long long int: %d byte(s)\n", sizeof(long long int);
 
 	return (0);
 
