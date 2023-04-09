@@ -3,10 +3,10 @@
 #include <stdlib.h>
 
 /**
- * main - multiplies two numbers
- * @argc: arguement count
- * @argv: arguement vector
- * Retrun: 0
+ * main - prints multiples of two numbers
+ * @argc: argument count
+ * @argv: argument vector
+ * Return: 0
  *
  */
 
