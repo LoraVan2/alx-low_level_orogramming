@@ -4,7 +4,7 @@
 /**
  * *create_array - creates array of chars
  * initializes it with specific char
- * @size: size of array 
+ * @size: size of array
  * @c: char to fill the array with
  * Return: a pointer to the array
  */
